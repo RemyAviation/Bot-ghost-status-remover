@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["TikTok: @remy_aviation","Instagram: @remy_aviation","Join: r/remy_aviation","beacons.ai/remy_aviation","@dutchaviator_","@msy.plane.spotters"];
+const statusMessages = ["TikTok: @remy_aviation","Instagram: @remy_aviation","beacons.ai/remy_aviation","@dutchaviator_","@msy.plane.spotters","Happy New Year's!"];
 
 
 let currentIndex = 0;
