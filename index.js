@@ -99,7 +99,7 @@ client.once('ready', () => {
 
   setInterval(() => {
     updateStatusAndSendMessages();
-  }, 2000);
+  }, 3000);
 });
 
 login();
