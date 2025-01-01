@@ -36,8 +36,7 @@ app.listen(port, () => {
 });
 
 
-// const statusMessages = ["TikTok: @remy_aviation","Instagram: @remy_aviation","beacons.ai/remy_aviation","@dutchaviator_","@msy.plane.spotters","Happy New Year's!"];
-const statusMessages = ["Timber - Pitbull","The bigger they are,","The harder they fall","This biggity boy's,","a diggity dog","I have 'em like Miley Cirus","Clothes off","Twerking in their","bras & thongs (timber)","Face down, booty up (timber)","That's the way we like to what","I'm slicker than an oil spill","She say she won't,","But I bet she will (timber)","...","];
+const statusMessages = ["TikTok: @remy_aviation","Instagram: @remy_aviation","beacons.ai/remy_aviation","@dutchaviator_","@msy.plane.spotters","Happy New Year's!"];
 
 
 let currentIndex = 0;
